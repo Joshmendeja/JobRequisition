@@ -1,0 +1,13 @@
+{
+    "name": "joshmendeja/march242018",
+    "description": "SMS Notification projects",
+    "authors": [
+        {
+            "name": "Joshmendeja",
+            "email": "trainee5@tua.edu.ph"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
